@@ -1,2 +1,6 @@
 # DSA-solutions
-DSA problems and notes
+
+Data structures and algorithms practice — arrays, sorting, complexity analysis.
+
+## Stack
+Python 3.x
